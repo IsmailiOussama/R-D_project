@@ -11,3 +11,19 @@ techniques can generalize well across diverse environments, offering new insight
 
 Comparative Analysis
 ![image](https://github.com/user-attachments/assets/df3fca1e-ec63-4bb9-8efe-06ad4bf6faab)
+
+Videos:
+
+halfcheetah:
+
+https://github.com/user-attachments/assets/443e4ade-46a7-4883-9ebb-3adb1f9e5090
+
+
+hopper:
+
+https://github.com/user-attachments/assets/fbc8e900-1aac-42d2-bb24-34a7006b9e6f
+
+walker2d
+
+https://github.com/user-attachments/assets/b14ab4e8-e6e9-471f-af74-0781fa26da5a
+
