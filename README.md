@@ -15,12 +15,19 @@ Comparative Analysis
 Videos:
 
 halfcheetah:
-https://github.com/user-attachments/assets/846d52fb-1006-4d80-85cb-7975950b9e56
+
+
+
+https://github.com/user-attachments/assets/febf4049-d13e-4898-94f7-e4edc6710975
 
 hopper:
-https://github.com/user-attachments/assets/fbc8e900-1aac-42d2-bb24-34a7006b9e6f
 
-walker2d
-https://github.com/user-attachments/assets/10931147-9720-4f98-8fdc-961c548d32be
 
+https://github.com/user-attachments/assets/7040dcfd-9abd-4b83-a670-dd9309d4750f
+
+walker2d:
+
+
+
+https://github.com/user-attachments/assets/1b514dbb-3e33-4a00-994e-2939ed9788c3
 
